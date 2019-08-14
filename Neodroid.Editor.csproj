@@ -111,16 +111,16 @@
     <None Include="Assets\droid\Editor\Resources\GithubExtension.uxml" />
     <None Include="Assets\droid\Editor\Resources\GithubExtension.uss" />
     <Reference Include="UnityEditor.UI">
-      <HintPath>/home/heider/Projects/Alexandra/NeodroidCameraApp/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/home/heider/Projects/Alexandra/Unity/NeodroidCameraApp/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/home/heider/Projects/Alexandra/NeodroidCameraApp/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/home/heider/Projects/Alexandra/Unity/NeodroidCameraApp/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>/home/heider/Projects/Alexandra/NeodroidCameraApp/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>/home/heider/Projects/Alexandra/Unity/NeodroidCameraApp/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>/home/heider/Projects/Alexandra/NeodroidCameraApp/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>/home/heider/Projects/Alexandra/Unity/NeodroidCameraApp/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/home/heider/Unity/Hub/Editor/2019.2.0b9/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -309,22 +309,22 @@
       <HintPath>/home/heider/Unity/Hub/Editor/2019.2.0b9/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="FlatBuffers">
-      <HintPath>/home/heider/Projects/Alexandra/NeodroidCameraApp/Assets/droid/Libraries/Neodroid-FlatBuffers.1.0.0/lib/net45/FlatBuffers.dll</HintPath>
+      <HintPath>/home/heider/Projects/Alexandra/Unity/NeodroidCameraApp/Assets/droid/Libraries/Neodroid-FlatBuffers.1.0.0/lib/net45/FlatBuffers.dll</HintPath>
     </Reference>
     <Reference Include="NetMQ">
-      <HintPath>/home/heider/Projects/Alexandra/NeodroidCameraApp/Assets/droid/Libraries/NetMQ.4.0.0.175-pre/lib/net40/NetMQ.dll</HintPath>
+      <HintPath>/home/heider/Projects/Alexandra/Unity/NeodroidCameraApp/Assets/droid/Libraries/NetMQ.4.0.0.175-pre/lib/net40/NetMQ.dll</HintPath>
     </Reference>
     <Reference Include="Priority Queue">
-      <HintPath>/home/heider/Projects/Alexandra/NeodroidCameraApp/Assets/droid/Libraries/OptimizedPriorityQueue.4.1.1/lib/net45/Priority Queue.dll</HintPath>
+      <HintPath>/home/heider/Projects/Alexandra/Unity/NeodroidCameraApp/Assets/droid/Libraries/OptimizedPriorityQueue.4.1.1/lib/net45/Priority Queue.dll</HintPath>
     </Reference>
     <Reference Include="AsyncIO">
-      <HintPath>/home/heider/Projects/Alexandra/NeodroidCameraApp/Assets/droid/Libraries/AsyncIO.0.1.61/lib/net40/AsyncIO.dll</HintPath>
+      <HintPath>/home/heider/Projects/Alexandra/Unity/NeodroidCameraApp/Assets/droid/Libraries/AsyncIO.0.1.61/lib/net40/AsyncIO.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>/home/heider/Projects/Alexandra/NeodroidCameraApp/Assets/droid/Libraries/Newtonsoft.Json.11.0.2/lib/net45/Newtonsoft.Json.dll</HintPath>
+      <HintPath>/home/heider/Projects/Alexandra/Unity/NeodroidCameraApp/Assets/droid/Libraries/Newtonsoft.Json.11.0.2/lib/net45/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>/home/heider/Projects/Alexandra/NeodroidCameraApp/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>/home/heider/Projects/Alexandra/Unity/NeodroidCameraApp/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>/home/heider/Unity/Hub/Editor/2019.2.0b9/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
